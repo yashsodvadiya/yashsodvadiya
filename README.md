@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am currently working in Humana<br>I am cloud engineer <br>I graduated form Northeastern University<br>I have a over three year of experience<br>
-
+Cloud Engineer with 3+ years of experience designing, deploying, and optimizing scalable, secure, and cost-efficient cloud infrastructures across 
+AWS, Azure, and GCP environments. Skilled in infrastructure automation, container orchestration, CI/CD pipelines, and monitoring frameworks, 
+driving operational excellence and high system availability. Proven success in migrating on-prem workloads to cloud, reducing costs by up to 
+30%, and implementing secure, compliant architectures aligned with HIPAA, SOC2, and ISO 27001. Adept at collaborating with DevOps, security, 
+and product teams to deliver reliable, high-performance cloud solutions supporting enterprise-scale applications.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yashsodvadiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theyash.patel28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-sodvadiya-618a61212/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@odvadiyayash) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@YSodvadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sodvadiyayash2828@gmail.com) 
